@@ -1,3 +1,3 @@
 * [首页](/)
-* [MongoDb](soft/MongoDB)
+* [MongoDB](soft/MongoDB)
 * [Tengine](soft/Tengine)
